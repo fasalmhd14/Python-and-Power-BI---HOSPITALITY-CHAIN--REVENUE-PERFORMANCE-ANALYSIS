@@ -22,16 +22,27 @@ The analysis is performed over a dataset of 3 months period (May 2022- July 2022
 
 
 
-The Following are the Key Metrics used in this data analysis Project:
+The Following are the **Key Metrics** used in this data analysis Project:
 
 
-* Average Daily Revenue - ADR - represents the average revenue earned per occupied room/rooms sold in a hotel over a
+* **Average Daily Revenue - ADR -** represents the average revenue earned per occupied room/rooms sold in a hotel over a
 specific period.
 
 
-* Revenue Per Available Room - RevPAR - measures the average revenue generated from each available room, whether it
+* **Revenue Per Available Room - RevPAR -** measures the average revenue generated from each available room, whether it
 is occupied or not.
 
 
-* Occupancy Rate refers to the percentage of available rooms that are occupied/sold out during a specific time period.
+* **Occupancy Rate** refers to the percentage of available rooms that are occupied/sold out during a specific time period.
+
+
+
+Links:
+
+- [LinkedIn Post](https://www.linkedin.com/posts/fasal-mohammed-497463311_businessintelligence-dataanalysis-powerbi-activity-7240016534583087104-8b2x?utm_source=share&utm_medium=member_desktop)
+
+- [Youtube Video Presentation](https://youtu.be/VUeRctzp91c)
+
+- [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiMjA5MWItYTAyOS00OTRmLTg4MTMtOTQxYjk0ZmIzMzRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
