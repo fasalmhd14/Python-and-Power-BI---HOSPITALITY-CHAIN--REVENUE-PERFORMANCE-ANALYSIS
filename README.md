@@ -1,4 +1,8 @@
-**Tool : Python and PowerBI**         **Industry - Hospitality**          **Function - Revenue**
+**Tools : Python and PowerBI**
+
+**Industry - Hospitality**        
+
+**Function - Revenue**
 
 
 AtliQ Grands is a prominent player in the Indian hospitality industry for the past 20 years. They own multiple five-star hotels across India in the Business and Luxury Category.
