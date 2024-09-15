@@ -50,3 +50,15 @@ Links:
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiMjA5MWItYTAyOS00OTRmLTg4MTMtOTQxYjk0ZmIzMzRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
+![Hospitality](https://github.com/user-attachments/assets/a0d6e5ae-18e0-4332-aec6-7daca8246718)
+
+
+**Data Modelling**
+
+
+![Data Modelling](https://github.com/user-attachments/assets/986cf7c5-14d1-414c-9a14-1c2a9571f46c)
+
+
+
+
+
